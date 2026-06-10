@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is RAKSHIT SANGWAN and I'm a AI/ML Enthusiast from Chandigarh, India</p>
+<p align="left">My name is RAKSHIT SANGWAN and I'm a AI/ML Enthusiast from Faridabad, Haryana, India</p>
 
 ###
 
@@ -10,10 +10,10 @@
 
 ###
 
-<p align="left">I am in my final year of BE-CSE specialised in AIML.<br>I'm currently learning from Chandigarh University.<br>Goals: Wanna showcase the power of AI to the world.</p>
+<p align="left">I completed BE-CSE specialised in AIML in 2025.<br>Python Developer</p>
 
 ###
 
-<h2 align="left">Technical Skills- Python, SQL, Excel, PowerBI, Data Structures & Algorithms, Data Analysis</h2>
+<h2 align="left">OPEN TO WORK</h2>
 
 ###
